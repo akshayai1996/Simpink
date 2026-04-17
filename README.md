@@ -13,7 +13,6 @@
 
 ### 🌟 Presentation & Demo Tools
 - **The Highlighter Halo**: A neon Amber aura (Highlighter Mouse) that stays with your cursor at all times, making it impossible for your audience to lose track of your mouse.
-- **Windows Integration (Pointer Mode)**: Switch tools to interact with other software while keeping your drawings locked on top of the screen.
 - **The Orb**: A unique, draggable minimize state that turns the interface into a sleek circular badge, keeping your desktop clean during live sessions.
 
 ### 📸 Premium Capture Suite
