@@ -8,11 +8,10 @@
 
 See Simpink in action! Click the links below to watch the native recordings:
 
-### [▶️ Click to Play: Feature Walkthrough](Simpink_Rec_1776425936236.webm)
+### [▶️ Click to Play: Feature Walkthrough]https://github.com/user-attachments/assets/1b44b022-6673-4e52-9380-7e50e9d16be0
 
 
-
-### [▶️ Click to Play: Quick Demo](Simpink_Rec_1776426087367.webm)[Simpink_Rec_1776426087367.webm](https://github.com/user-attachments/assets/3d6dacd4-ad5b-45d0-b23d-ada886f02f80)
+### [▶️ Click to Play: Quick Demo](https://github.com/user-attachments/assets/3d6dacd4-ad5b-45d0-b23d-ada886f02f80)
 
 
 ## ✨ Features in Detail
