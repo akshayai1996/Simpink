@@ -16,11 +16,21 @@
 
 ## 🚀 Installation
 
+### Option 1: Manual Download
 Download the latest version from the [Releases](https://github.com/akshayai1996/Simpink/releases) page.
 
-1. Download `SIMPINK_X64.EXE`.
-2. Run the installer.
-3. Launch Simpink from your Desktop or Start Menu.
+### Option 2: Quick Command-Line Install (easiest for anyone)
+Copy and paste either of these into your terminal to download the installer instantly:
+
+**PowerShell:**
+```powershell
+iwr -useb https://github.com/akshayai1996/Simpink/releases/latest/download/SIMPINK_X64.EXE -OutFile SIMPINK_X64.EXE
+```
+
+**CMD:**
+```cmd
+curl -L https://github.com/akshayai1996/Simpink/releases/latest/download/SIMPINK_X64.EXE -o SIMPINK_X64.EXE
+```
 
 ## 🛠️ Tech Stack
 
