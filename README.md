@@ -6,13 +6,10 @@
 
 ## 🎥 Live Demo
 
-See Simpink in action! Below are two native recordings captured directly using the tool:
+See Simpink in action! Click the links below to watch the native recordings:
 
-### Feature Walkthrough
-<video src="Simpink_Rec_1776425936236.webm" controls="controls" style="max-width: 100%; height: auto;"></video>
-
-### Quick Demo
-<video src="Simpink_Rec_1776426087367.webm" controls="controls" style="max-width: 100%; height: auto;"></video>
+### [▶️ Click to Play: Feature Walkthrough](Simpink_Rec_1776425936236.webm)
+### [▶️ Click to Play: Quick Demo](Simpink_Rec_1776426087367.webm)
 
 ## ✨ Features in Detail
 
