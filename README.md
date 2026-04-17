@@ -9,10 +9,10 @@
 See Simpink in action! Below are two native recordings captured directly using the tool:
 
 ### Feature Walkthrough
-![Simpink Walkthrough](Simpink_Rec_1776425936236.webm)
+<video src="Simpink_Rec_1776425936236.webm" controls="controls" style="max-width: 100%; height: auto;"></video>
 
 ### Quick Demo
-![Simpink Quick Demo](Simpink_Rec_1776426087367.webm)
+<video src="Simpink_Rec_1776426087367.webm" controls="controls" style="max-width: 100%; height: auto;"></video>
 
 ## ✨ Features in Detail
 
