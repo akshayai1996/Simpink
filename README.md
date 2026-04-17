@@ -4,15 +4,26 @@
 
 ![Simpink Icon](icon.png)
 
-## ✨ Features
+## ✨ Features in Detail
 
-- **Premium UI**: Modern glassmorphism aesthetic with fluid animations.
-- **Annotate Anywhere**: Brush, Geometric Shapes, and Pro Typography tools.
-- **Highlighter Mouse**: Persistent neon halo for clear presentations.
-- **Pro Snipping**: Partial-screen capture with "carved-out" selection effects.
-- **Native Recording**: High-bitrate (up to 25 Mbps) video capture with Pause/Resume support.
-- **Smart Logic**: Screen boundary clamping and responsive UI to prevent overflow.
-- **Standalone**: No dependencies required. Just run the installer.
+### 🖌️ Professional Annotation
+- **Dynamic Brush**: Smooth, hardware-accelerated freehand drawing with customizable thickness and 0-100% transparency.
+- **Geometric Precision**: Create perfect circles and rectangles with Shift-key alignment.
+- **Pro Typography**: Integrated text tool with customizable fonts, sizes, and styles (Bold/Italic) to label your ideas clearly.
+
+### 🌟 Presentation & Demo Tools
+- **The Highlighter Halo**: A neon Amber aura (Highlighter Mouse) that stays with your cursor at all times, making it impossible for your audience to lose track of your mouse.
+- **Windows Integration (Pointer Mode)**: Switch tools to interact with other software while keeping your drawings locked on top of the screen.
+- **The Orb**: A unique, draggable minimize state that turns the interface into a sleek circular badge, keeping your desktop clean during live sessions.
+
+### 📸 Premium Capture Suite
+- **Carve-out Snipping**: A professional-grade selective screenshot tool that dims the entire screen and "carves out" your selected area for high-contrast capture.
+- **Native Video Recording**: Skip OBS/Loom—record your full annotated desktop directly in Simpink with **Pause/Resume** support and high-fidelity (up to 25 Mbps) video.
+
+### ⚡ Power-User Experience
+- **Smart Boundary Clamping**: The toolbar can be dragged anywhere but will intelligently "snap" back to stay within your screen edges during expansion.
+- **Pro Shortcuts**: Full keyboard control for Undo (Ctrl+Z), Redo (Ctrl+Y), Copy (Ctrl+D), Record (Ctrl+Alt+R), and Pause (Ctrl+Alt+P).
+- **Context-Aware Menus**: Right-click on pens, text, or snapshots to instantly access advanced settings without digging through menus.
 
 ## 🚀 Installation
 
