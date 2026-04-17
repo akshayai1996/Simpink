@@ -4,6 +4,16 @@
 
 ![Simpink Icon](icon.png)
 
+## 🎥 Live Demo
+
+See Simpink in action! Below are two native recordings captured directly using the tool:
+
+### Feature Walkthrough
+![Simpink Walkthrough](Simpink_Rec_1776425936236.webm)
+
+### Quick Demo
+![Simpink Quick Demo](Simpink_Rec_1776426087367.webm)
+
 ## ✨ Features in Detail
 
 ### 🖌️ Professional Annotation
