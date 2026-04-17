@@ -1,0 +1,45 @@
+{
+  "name": "simpink-electron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "dist": "electron-builder --win --x64"
+  },
+  "build": {
+    "appId": "com.simpink.app",
+    "productName": "Simpink",
+    "win": {
+      "target": [
+        "nsis"
+      ],
+      "icon": "icon.png"
+    },
+    "linux": {
+      "target": [
+        "deb"
+      ],
+      "category": "Graphics",
+      "icon": "icon.png"
+    },
+    "nsis": {
+      "oneClick": false,
+      "allowToChangeInstallationDirectory": true,
+      "createDesktopShortcut": true,
+      "menuCategory": "Simpink Tools",
+      "artifactName": "SIMPINK_X64.EXE"
+    },
+    "directories": {
+      "output": "dist"
+    }
+  },
+  "keywords": [],
+  "author": "Simpink",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "electron": "^41.2.1",
+    "electron-builder": "^25.1.8"
+  }
+}
