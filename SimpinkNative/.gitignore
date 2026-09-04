@@ -1,0 +1,17 @@
+# Build results
+bin/
+obj/
+publish/
+
+# Packages
+*.nupkg
+*.nuget.packages/
+
+# msbuild
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build logs
+*.binlog

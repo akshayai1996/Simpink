@@ -1,0 +1,20 @@
+<Window x:Class="SimpinkNative.Windows.OverlayWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:SimpinkNative.Windows"
+        Title="SimpinkOverlay" 
+        WindowStyle="None" 
+        AllowsTransparency="True"
+        Background="Transparent"
+        Topmost="True"
+        ShowInTaskbar="False"
+        ResizeMode="NoResize"
+        Focusable="True"
+        Loaded="Window_Loaded"
+        Closed="Window_Closed"
+        KeyDown="Window_KeyDown">
+    <Grid x:Name="RootGrid">
+        <Border x:Name="BackgroundOverlay"/>
+        <local:OverlayDrawCanvas x:Name="DrawCanvas" Background="Transparent"/>
+    </Grid>
+</Window>
